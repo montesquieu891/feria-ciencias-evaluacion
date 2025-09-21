@@ -18,7 +18,9 @@ feria-ciencias-evaluacion/
 
 ### Requisitos
 - Python 3.8 o superior
-- Jupyter Notebook
+- jupyter>=1.0.0
+- matplotlib>=3.5.0
+- numpy>=1.21.0
 
 ### Instalación de Dependencias
 ```bash
