@@ -6,7 +6,7 @@ Fecha: Septiembre 2025
 
 def calcular_puntaje_equipo(datos_equipo):
     """
-    Calcula el puntaje de un equipo según la fórmula establecida.
+    Calcula el  de un equipo según la fórmula establecida.
     
     Args:
         datos_equipo (dict): Diccionario con 'innovacion', 'presentacion', 'errores'
