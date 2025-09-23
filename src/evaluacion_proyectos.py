@@ -1,6 +1,6 @@
 """
 Módulo para evaluación de proyectos estudiantiles
-Autor: Andres
+Autor: ANDRESSS
 Fecha: Septiembre 2025
 """
 
